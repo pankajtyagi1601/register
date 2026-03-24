@@ -5,6 +5,6 @@
     "email": "pankajtyagi1601@gmail.com"
   },
   "records": {
-    "CNAME": "pankajtyagi-portfolio.vercel.app"
+    "A": ["216.198.79.1"]
   }
 }
